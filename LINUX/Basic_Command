@@ -20,6 +20,8 @@
 ---
     cd .. --> to come out of a directory
 ---
+    cd ~ go to the home directory
+---
     rm -r testdir --> to remove a directory
 ---
     ~ --> Home directory
